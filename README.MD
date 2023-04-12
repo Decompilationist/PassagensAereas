@@ -10,7 +10,7 @@
 
 👤 **Gustavo Alves**
 
-* Website: (https://gustavoalves.ml)
+* Website: https://gustavoalves.ml
 * Github: [@Decompilationist](https://github.com/Decompilationist)
 
 ## Show your support
