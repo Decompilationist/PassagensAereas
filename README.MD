@@ -4,13 +4,13 @@
 > Sistema de compra de passagens aéreas em PHP ✈️
 
 
-### ✨ [Demo](https://bagreaereo.ml)
+### ✨ [Demo](http://bagreaereo.ml)
 
 ## Author
 
 👤 **Gustavo Alves**
 
-* Website: https://gustavoalves.ml
+* Website: http://gustavoalves.ml
 * Github: [@Decompilationist](https://github.com/Decompilationist)
 
 ## Show your support
